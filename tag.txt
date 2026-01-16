@@ -1,0 +1,57 @@
+=== LAPORAN UNKNOWN TOKENS (53 Kata Unik) ===
+Total Kemunculan Error: 384
+Format: [Jumlah] [Kata]
+========================================
+62    salah
+35    kembali
+23    keluar
+23    timu
+23    keras
+18    kecewa
+17    tingkah
+13    langkah
+12    setelah
+10    ketawa
+10    bersalah
+10    walaupun
+8     per
+8     basa
+7     kerja
+7     kendali
+7     kecuali
+6     kencan
+6     lelah
+6     mun
+5     kepala
+4     kesel
+4     kepada
+4     seolah
+4     malah
+3     ketemu
+3     asa
+3     pa
+3     titik
+3     sci
+3     fi
+3     kering
+3     mu
+3     kesan
+3     ku
+3     tengah
+2     se
+2     ketidakmampuan
+1     keren
+1     kelebihan
+1     jalur
+1     keripik
+1     mengolah
+1     telah
+1     kena
+1     ketidakjelasan
+1     dimensi
+1     en
+1     kejam
+1     cpu
+1     kembang
+1     ruang
+1     jumlah
